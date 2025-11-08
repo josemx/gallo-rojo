@@ -35,7 +35,6 @@ dist
 
 # Yarn log and state
 .pnp.*
-.yarnrc.yml
 .yarn/install-state.gz
 
 # MacOS
