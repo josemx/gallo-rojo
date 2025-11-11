@@ -1,7 +1,7 @@
 {
   "name": "gallo-rojo",
   "version": "1.0.0",
-  "description": "A bare-bones RedwoodSDK starter",
+  "description": "Muliplayer Loteria Game",
   "main": "index.js",
   "type": "module",
   "keywords": [],
