@@ -1,0 +1,45 @@
+:root {
+  --spacing-0_25x: 0.25rem;
+  --spacing-0_5x: 0.5rem;
+  --spacing-0_75x: 0.75rem;
+  --spacing-1x: 1rem;
+  --spacing-2x: 2rem;
+}
+
+html {
+  background-color: #faf3e0;
+  color: #2b2b2b;
+  font-family: 'Noto Serif', serif;
+  font-size: 16px;
+}
+
+html,
+body,
+#id,
+#hydrate-root {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+html * {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 300;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

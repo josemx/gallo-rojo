@@ -1,12 +1,14 @@
+import { Header } from '../components/Header';
+import { Content } from '../components/Content';
+import { Footer } from '../components/Footer';
+
 export const Home = () => {
   // _Feel free to delete this element and its import_
   return (
-    <>
-      <h1>el gallo</h1>
-      <ul>
-        <li>host</li>
-        <li>join</li>
-      </ul>
-    </>
+    <div className="app-container">
+      <Header />
+      <Content />
+      <Footer />
+    </div>
   );
 };
