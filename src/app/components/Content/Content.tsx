@@ -3,10 +3,18 @@ import styles from './Content.module.css';
 export const Content = () => {
   return (
     <section className={styles.content}>
-      <a href="#/join" className={`${styles['boton-picado']} ${styles.join}`}>
+      <a
+        className={`${styles['boton-picado']} ${styles.join}`}
+        href="#/join"
+        tabIndex={0}
+      >
         Join
       </a>
-      <a href="#/host" className={`${styles['boton-picado']} ${styles.host}`}>
+      <a
+        className={`${styles['boton-picado']} ${styles.host}`}
+        href="#/host"
+        tabIndex={0}
+      >
         Host
       </a>
     </section>

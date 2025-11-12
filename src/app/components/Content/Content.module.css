@@ -14,17 +14,31 @@
   font-size: 1rem;
   padding: 0.5rem 1rem;
   text-decoration: none;
-  color: #2b2b2b;
-
-  border: 1px solid #2b2b2b;
+  box-shadow: 0px 0px 10px -5px
+    color-mix(in srgb, var(--obsidiana-700) 75%, transparent);
+  color: var(--obsidiana-700);
 }
 
 .join {
-  background-color: #64c46a;
+  background-color: var(--nopal-400);
+  border: 1px solid var(--nopal-500);
+}
+.join:hover {
+  background-color: var(--nopal-300);
+}
+.join:active {
+  background-color: var(--nopal-500);
 }
 
 .host {
-  background-color: #f25a9a;
+  background-color: var(--rosa-400);
+  border: 1px solid var(--rosa-500);
+}
+.host:hover {
+  background-color: var(--rosa-300);
+}
+.host:active {
+  background-color: var(--rosa-500);
 }
 
 /* temp */

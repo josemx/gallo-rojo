@@ -1,0 +1,97 @@
+:root {
+  /* 🌞 Sol Dorado */
+  --sol-100: #fff8d1;
+  --sol-200: #fff0a3;
+  --sol-300: #ffe37a;
+  --sol-400: #ffd23c;
+  --sol-500: #f5b700;
+  --sol-600: #e2a100;
+  --sol-700: #c78700;
+  --sol-800: #9e6900;
+  --sol-900: #674400;
+  --sol-1000: #3c2600;
+
+  /* 💃 Magenta Rosa */
+  --rosa-100: #ffe3ed;
+  --rosa-200: #ffb6cf;
+  --rosa-300: #f96ba0;
+  --rosa-400: #eb4d8b;
+  --rosa-500: #e6397e;
+  --rosa-600: #c8286d;
+  --rosa-700: #a71c58;
+  --rosa-800: #7d1343;
+  --rosa-900: #52082c;
+  --rosa-1000: #35041b;
+
+  /* 🌿 Nopal Verde */
+  --nopal-100: #e4f8e5;
+  --nopal-200: #c8efcb;
+  --nopal-300: #a1e3a6;
+  --nopal-400: #7bd984;
+  --nopal-500: #5dbb63;
+  --nopal-600: #4aa451;
+  --nopal-700: #3d8f45;
+  --nopal-800: #2f6c33;
+  --nopal-900: #1d4420;
+  --nopal-1000: #0e2711;
+
+  /* 🩵 Cielo Azul */
+  --cielo-100: #e2f4ff;
+  --cielo-200: #c2e9ff;
+  --cielo-300: #a4ddff;
+  --cielo-400: #80cfff;
+  --cielo-500: #38b6ff;
+  --cielo-600: #1c9fea;
+  --cielo-700: #0b86c9;
+  --cielo-800: #066a9e;
+  --cielo-900: #034364;
+  --cielo-1000: #012538;
+
+  /* 🪶 Turquesa Talavera */
+  --talavera-100: #d2f8f8;
+  --talavera-200: #b4f0f0;
+  --talavera-300: #90e3e3;
+  --talavera-400: #6dd7d6;
+  --talavera-500: #009e9d;
+  --talavera-600: #008c8b;
+  --talavera-700: #007c7c;
+  --talavera-800: #00605f;
+  --talavera-900: #003d3d;
+  --talavera-1000: #002222;
+
+  /* 🫶 Coral de Oaxaca */
+  --coral-100: #ffe6e1;
+  --coral-200: #ffc2b8;
+  --coral-300: #ff9d8e;
+  --coral-400: #ff7b6e;
+  --coral-500: #ff6f61;
+  --coral-600: #e55c50;
+  --coral-700: #c94e44;
+  --coral-800: #9c3a33;
+  --coral-900: #66231e;
+  --coral-1000: #3a130f;
+
+  /* ⚫ Negro Obsidiana */
+  --obsidiana-100: #f3f3f3;
+  --obsidiana-200: #e0e0e0;
+  --obsidiana-300: #b8b8b8;
+  --obsidiana-400: #808080;
+  --obsidiana-500: #4a4a4a;
+  --obsidiana-600: #2b2b2b;
+  --obsidiana-700: #1e1e1e;
+  --obsidiana-800: #141414;
+  --obsidiana-900: #0a0a0a;
+  --obsidiana-1000: #000000;
+
+  /* 🤍 Crema Papel */
+  --papel-100: #ffffff;
+  --papel-200: #fefbf3;
+  --papel-300: #fbf6e9;
+  --papel-400: #faf3e0;
+  --papel-500: #ede0c1;
+  --papel-600: #d6cbb6;
+  --papel-700: #b8a68a;
+  --papel-800: #8a7761;
+  --papel-900: #4b3e32;
+  --papel-1000: #2e241c;
+}
